@@ -76,7 +76,7 @@ html,body{
     align-items: start;
     padding-left:30px ;
     height: 400px;
-    border: #252525 1px solid;
+    /* border: #252525 1px solid; */
     overflow-y: scroll;
 }
 ul{
